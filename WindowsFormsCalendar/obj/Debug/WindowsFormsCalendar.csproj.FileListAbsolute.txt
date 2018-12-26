@@ -1,0 +1,6 @@
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\bin\Debug\WindowsFormsCalendar.dll
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\bin\Debug\WindowsFormsCalendar.pdb
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.csprojAssemblyReference.cache
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.csproj.CoreCompileInputs.cache
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.dll
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.pdb

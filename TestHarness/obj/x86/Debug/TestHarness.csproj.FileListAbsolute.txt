@@ -1,0 +1,12 @@
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\bin\Debug\TestHarness.exe
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\bin\Debug\TestHarness.pdb
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\bin\Debug\WindowsFormsCalendar.dll
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\bin\Debug\WindowsFormsCalendar.pdb
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.csprojAssemblyReference.cache
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.Form1.resources
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.Properties.Resources.resources
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.csproj.GenerateResource.cache
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.csproj.CoreCompileInputs.cache
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.csproj.CopyComplete
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\adaline\PosBill\Controls\winformscalenda-code-r31-branches\version-1.0\TestHarness\obj\x86\Debug\TestHarness.pdb
